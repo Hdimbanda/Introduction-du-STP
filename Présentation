@@ -1,0 +1,5 @@
+Le STP, de part son nom entier Spanning-Tree Protocol, est (comme son nom l'indique) un protocole servant à : 
+éliminer les boucles réseau, apporter des redondances dans une topologie voire également, de bloquer certains ports en limitant le nombre de chemins situés entre deux périphériques. 
+Ces ports peuvent être réactivés en cas de conflit dans la segmentation réseau en proposant de nouveaux chemins pour la transmission des paquets.
+Le matériel le plus utilisé à ce sujet est le commutateur, servant à établir la communication (des chemins) entre divers éléments d'un réseau local.
+
